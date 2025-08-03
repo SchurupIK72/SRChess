@@ -1,0 +1,2 @@
+# SRChess
+special rules chess
