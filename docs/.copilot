@@ -1,0 +1,6 @@
+# Copilot: Use These Docs for Context
+
+- All files in the `docs/` directory are project instructions and context for Copilot.
+- Always reference these files for architecture, API, and workflow guidance.
+- Do not suggest or generate code that violates these docs.
+- Перед тем как изменить что то спроси меня и расскажи что и как ты собриаешься менять
